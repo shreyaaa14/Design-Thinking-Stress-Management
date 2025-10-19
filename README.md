@@ -1,7 +1,7 @@
 # Design-Thinking-Stress-Management
 Self-learning video project for Skill for Balanced Life (Stage 2: Analytical Depth &amp; Design Thinking).
 ## 🎥 Video
-[▶ Watch the Video on GitHub](https://drive.google.com/file/d/1hyqA8BcGezQdobqptyATSEpPxo2wj6BL/view?usp=drive_link)
+[▶ Watch the Video on GitHub](https://drive.google.com/file/d/1hyqA8BcGezQdobqptyATSEpPxo2wj6BL/view?usp=sharing)
 
 ---
 
